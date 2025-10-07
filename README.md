@@ -98,7 +98,7 @@ Response:
 
 ### 4. Update todo
 **PUT /todos/:id**  
-Contoh: `/todos/1`  
+Contoh: `/todos/1`
 Body (JSON):
 ```json
 {
